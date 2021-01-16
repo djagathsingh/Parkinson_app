@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parkinson</string>
+    <string-array name="spinner">
+        <item>sustained_vowel_aaa1.wav</item>
+        <item>sustained_vowel_aaa2.wav</item>
+        <item>sustained_vowel_aaa3.wav</item>
+        <item>sustained_vowel_ooo1.wav</item>
+        <item>sustained_vowel_ooo2.wav</item>
+        <item>sustained_vowel_ooo3.wav</item>
+    </string-array>
+</resources>
